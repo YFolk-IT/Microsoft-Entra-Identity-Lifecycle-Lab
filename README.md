@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 In this lab, I managed the end-to-end identity lifecycle for a cloud-native environment. I performed critical administrative tasks in Microsoft Entra ID, focusing on secure user provisioning, external collaboration, and Role-Based Access Control (RBAC).
 •	Tools Used: Microsoft Entra Admin Center, Microsoft 365 Admin Center, CSV Automation.
 •	Key Focus: Network Security & Information Assurance.
