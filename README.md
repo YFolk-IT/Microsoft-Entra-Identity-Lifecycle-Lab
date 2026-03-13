@@ -31,18 +31,18 @@ Security Analysis & Best Practices
 Evidence of Completion
 [!NOTE] All sensitive information (Tenant IDs, Personal Emails) has been redacted to maintain Operational Security.
 ### User Creation Success
-![User Creation Success](./images/01-user-creation.png.png)
+![User Creation Success](./images/01-user-creation.png)
 
 ### License Assignment
-![License Assigned](./images/02-license-assigned.png.png)
+![License Assigned](./images/02-license-assigned.png)
 
 ### External Guest Invitation
-![External Guest](./images/03-external-guest.png.png)
+![External Guest](./images/03-external-guest.png)
 
 ### RBAC & Role Justification
-![RBAC Assignment](./images/04-role-assignment.png.png)
+![RBAC Assignment](./images/04-role-assignment.png)
 
 ### Bulk Import Success
-![Bulk Import](./images/05-bulk-import.png.png)
+![Bulk Import](./images/05-bulk-import.png)
 Learning Credits
 This lab is based on the Microsoft Learn module: Perform basic User Management tasks in Microsoft Entra ID.
