@@ -1,0 +1,12 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# PowerShell history and temporary files
+*__history.ps1
+*.log
+*.tmp
+
+# Common Folder junk
+.DS_Store
