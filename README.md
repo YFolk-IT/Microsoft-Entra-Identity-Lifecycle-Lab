@@ -29,7 +29,9 @@ Security Analysis & Best Practices
 •	Operational Security: During documentation, all sensitive Tenant IDs and Admin Credentials were redacted to maintain environment integrity.
 
 Evidence of Completion
-[!NOTE] All sensitive information (Tenant IDs, Personal Emails) has been redacted to maintain Operational Security.
+> [!NOTE]
+> All sensitive Tenant IDs and Admin accounts have been redacted to maintain Operational Security.
+
 ### User Creation Success
 ![User](./01-user-creation.png)
 
